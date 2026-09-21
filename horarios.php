@@ -22,71 +22,7 @@
         <?php
             visualizarHorario($horario);    
         ?>
-        <!-- <tr>
-            <th class="encabezado">Hora</th>
-            <th class="encabezado">Lunes</th>
-            <th class="encabezado">Martes</th>
-            <th class="encabezado">Miércoles</th>
-            <th class="encabezado">Jueves</th>
-            <th class="encabezado">Viernes</th>
-        </tr> -->
-
-        <!-- <tr>
-            <td class="hora">1</td>
-            <td class="empleabilidad">IP</td>
-            <td class="cliente">CLIENTE</td>
-            <td class="empleabilidad">IP</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="optativa2">OPT. 2</td>
-        </tr>
-        <tr>
-            <td class="hora">2</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="cliente">CLIENTE</td>
-            <td class="cliente">CLIENTE</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="optativa2">OPT. 2</td>
-        </tr>
-        <tr>
-            <td class="hora">3</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="cliente">CLIENTE</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="digitalizacion">DIGIT.</td>
-        </tr>
-        <tr>
-            <td class="hora">4</td>
-            <td class="proyecto">PIMOD</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="servidor">SERVIDOR</td>
-            <td class="sostenibilidad">SOST.</td>
-            <td class="servidor">SERVIDOR</td>
-        </tr>
-        <tr>
-            <td class="hora">5</td>
-            <td class="despliegue">DESPLIEGUE</td>
-            <td class="proyecto">PIMOD</td>
-            <td class="despliegue">DESPLIEGUE</td>
-            <td class="optativa1">OPT. 1</td>
-            <td class="servidor">SERVIDOR</td>
-        </tr>
-        <tr>
-            <td class="hora">6</td>
-            <td class="cliente">CLIENTE</td>
-            <td class="despliegue">DESPLIEGUE</td>
-            <td class="despliegue">DESPLIEGUE</td>
-            <td class="empleabilidad">IP</td>
-            <td class="tutoria">TUTORÍA</td>
-        </tr>
-        <tr>
-            <td class="hora">7</td>
-            <td class="cliente">CLIENTE</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr> -->
+        
 
 </table>
 
