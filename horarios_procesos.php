@@ -71,7 +71,9 @@ $horario = [
 */
 
         for($i = 0; $i < count($horario); $i++){
-
+            // Esta validacion pregunta si estamos en la primera hora, si es asi,
+            // ANTES de empezar a poner ninguna asignatura, visualizamos el encabezado
+            // De los dias de la semana con ka funcion visualizarEncabezado (explicada abajo)
             if(($i + 1) == 1)
                 visualizarEncabezado($horario[$i]);
             echo '<tr> <td class="hora">'.($i + 1).'</td>';
